@@ -152,19 +152,7 @@ MESSAGE_TAGS = {
 }
 
 
-# EMAIL CONFIG
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-
-EMAIL_HOST = 'smtp-mail.outlook.com'
-
-EMAIL_HOST_USER = 'alamshahbaz01@outlook.com'
-
-EMAIL_HOST_PASSWORD = 'shahbazalam@2021cute'
-
-EMAIL_PORT = 587
-
-EMAIL_USE_TLS = True
 
 
 try:
